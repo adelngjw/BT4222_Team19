@@ -1,0 +1,5 @@
+/CNN.ipynb filter=lfs diff=lfs merge=lfs -text
+/Hypothesis4_CNN.ipynb filter=lfs diff=lfs merge=lfs -text
+/LSTM.ipynb filter=lfs diff=lfs merge=lfs -text
+/Masterdata_and_Hypothesis1.ipynb filter=lfs diff=lfs merge=lfs -text
+/RNN.ipynb filter=lfs diff=lfs merge=lfs -text
