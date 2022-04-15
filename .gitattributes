@@ -3,3 +3,6 @@
 /LSTM.ipynb filter=lfs diff=lfs merge=lfs -text
 /Masterdata_and_Hypothesis1.ipynb filter=lfs diff=lfs merge=lfs -text
 /RNN.ipynb filter=lfs diff=lfs merge=lfs -text
+/glove.6B.100d.txt filter=lfs diff=lfs merge=lfs -text
+/glove.6B.200d.txt filter=lfs diff=lfs merge=lfs -text
+/glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
